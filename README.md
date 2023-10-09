@@ -49,12 +49,6 @@
     <a href="https://keras.io/" target="_blank" rel="noreferrer">
         <img  alt="Keras" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>
     </a>
-    <a href="https://www.unrealengine.com/en-US/" target="_blank" rel="noreferrer">
-        <img  alt="Unreal" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg"/>
-    </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img  alt="Unity" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg"/>
-    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
     </a>
